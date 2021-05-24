@@ -1,0 +1,1 @@
+web: pip install . -U && some_silly_package-run
